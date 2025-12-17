@@ -1,16 +1,12 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
   "type": "commonjs",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo Backend test OK"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^5.2.1",
     "sqlite3": "^5.1.7"
